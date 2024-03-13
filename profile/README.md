@@ -43,12 +43,18 @@ Confluence Spaces:
 | [crpersonas](https://github.com/ubtech-nardc/crpersonas)| | |
 | [CrScheduleManager](https://github.com/ubtech-nardc/CrScheduleManager) | | |
 | [CRSpeechService](https://github.com/ubtech-nardc/CRSpeechService) | chat function, LLM | chatgpt_na |
-| CRSystemConfig | | develop_3.0.0_na |
-| | | |
-| | | |
-| | | |
-| | | |
-
+| [CRSystemConfig](https://github.com/ubtech-nardc/CRSystemConfig) | | develop_3.0.0_na |
+| [CRVideo](https://github.com/ubtech-nardc/CRVideo) | | |
+| [dds_rosa_adapter](https://github.com/ubtech-nardc/dds_rosa_adapter)| | |
+| [FactoryResources](https://github.com/ubtech-nardc/FactoryResources)| | |
+| [MapEditor](https://github.com/ubtech-nardc/MapEditor)| Map Editor | develop_3.0.0_na |
+| [OneInHundred](https://github.com/ubtech-nardc/OneInHundred) | One Game on CR | develop_3.0.0_na |
+| [RemoteApp](https://github.com/ubtech-nardc/RemoteApp) |  |  |
+| [RK3399LogTools](https://github.com/ubtech-nardc/RK3399LogTools) |  |  |
+| [RK3399](https://github.com/ubtech-nardc/RK3399) |  |  |
+| [SDKDemo](https://github.com/ubtech-nardc/SDKDemo) |  |  |
+| [SkillLauncher](https://github.com/ubtech-nardc/SkillLauncher) |  | develop_3.0.0_na |
+| [TaskService](https://github.com/ubtech-nardc/TaskService) |  | develop_3.0.0_na |
 
 
 
