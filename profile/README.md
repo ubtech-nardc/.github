@@ -26,13 +26,13 @@
 
 
 ## ARM
-
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/PowerArm/overview
 
 
 
 ## GARD
 
-
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/ARD/overview
 
 
 ## CR - Companion Robot
