@@ -22,7 +22,11 @@ Confluence Page:
 
 ## CR - Companion Robot
 
-Confluence Spaces: 
+**Confluence Spaces: ** https://ubtechrdna.atlassian.net/wiki/spaces/CR/overview
+
+
+**Robot Update Instructions: **
+
 Contact: Olivia
 
 | Repo | Description | Version/branch on Robot |
