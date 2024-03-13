@@ -1,18 +1,5 @@
 # Futronics Project Menu
 
-## Navigation
-**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
-
-| Repo | Description | Version/branch on Robot |
-| ----------- | ----------- | ----------- | 
-
-## Fleet Control
-**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
-
-| Repo | Description | Version/branch on Robot |
-| ----------- | ----------- | ----------- | 
-
-
 ## Cloud
 
 **Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/CLOUD/overview
@@ -21,6 +8,26 @@
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
 | [Cloud-platform](https://github.com/ubtech-nardc/cloud-platform) | cloud |  |
+| [ubtna_common_ros](https://github.com/ubtech-nardc/ubtna_common_ros) |   |   |
+|  |   |   |
+
+
+
+## Navigation
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [navigation_ws](https://github.com/ubtech-nardc/navigation_ws) |   |   |
+|  |   |   |
+
+## Fleet Control
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [fleet_control_ws](https://github.com/ubtech-nardc/fleet_control_ws) |   |    |
+|  |   |   |
 
 
 
@@ -28,11 +35,19 @@
 ## ARM
 **Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/PowerArm/overview
 
-
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [powerArm](https://github.com/ubtech-nardc/powerArm) | powerARM TRL 6 control  |    |
+|  |   |   |
 
 ## GARD
 
 **Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/ARD/overview
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [fleet_control_ws](https://github.com/ubtech-nardc/fleet_control_ws) |   |    |
+|  |   |   |
 
 
 ## CR - Companion Robot
@@ -78,10 +93,23 @@
 
 ## Wheelchair
 
-Wheelchair and Navigation stack -- [uwheel_dds](https://github.com/ubtech-nardc/uwheel_dds)
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [uwheel_dds](https://github.com/ubtech-nardc/uwheel_dds) | Wheelchair and Navigation stack  |    |
+|  |   |   |
 
 ## DR - Delivery Robot
 
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+|  |   |    |
+|  |   |   |
 
 
 ## OSDR - Open Shelf Delivery Robot
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+|  |   |    |
+|  |   |   |
