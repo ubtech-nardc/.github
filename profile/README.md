@@ -1,10 +1,10 @@
 # Futronics Project Menu
 
 ## Navigation
-
+Confluence Page:
 
 ## Fleet Control
-
+Confluence Page:
 
 ## Cloud
 
@@ -23,6 +23,7 @@
 ## CR - Companion Robot
 
 Confluence Spaces: 
+Contact: Olivia
 
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
@@ -60,7 +61,9 @@ Confluence Spaces:
 
 ## Wheelchair
 
-Wheelchair and Navigation stack -- uwheel_dds
+Contact: Frank
+
+Wheelchair and Navigation stack -- [uwheel_dds](https://github.com/ubtech-nardc/uwheel_dds)
 
 ## DR - Delivery Robot
 
