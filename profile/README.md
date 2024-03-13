@@ -1,12 +1,27 @@
 # Futronics Project Menu
 
 ## Navigation
-Confluence Page:
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
 
 ## Fleet Control
-Confluence Page:
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+
 
 ## Cloud
+
+**Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/CLOUD/overview
+
+
+| Repo | Description | Version/branch on Robot |
+| ----------- | ----------- | ----------- | 
+| [Cloud-platform](https://github.com/ubtech-nardc/cloud-platform) | cloud |  |
+
 
 
 
@@ -27,11 +42,9 @@ Confluence Page:
 
 **Robot Update Instructions**: https://ubtechrdna.atlassian.net/wiki/spaces/CR/pages/2111143962/CR2023+EVT+HW
 
-Contact: Olivia
 
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
-| CR-China | Main Description |  |
 | [CR_OTA](https://github.com/ubtech-nardc/CR_OTA) | Text | |
 | [CR_Advert](https://github.com/ubtech-nardc/CRAdvert) | Ads services | |
 | [Basic Components](https://github.com/ubtech-nardc/BasicComponents) | Ads services | |
@@ -64,8 +77,6 @@ Contact: Olivia
 
 
 ## Wheelchair
-
-Contact: Frank
 
 Wheelchair and Navigation stack -- [uwheel_dds](https://github.com/ubtech-nardc/uwheel_dds)
 
