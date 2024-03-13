@@ -22,10 +22,10 @@ Confluence Page:
 
 ## CR - Companion Robot
 
-**Confluence Spaces: ** https://ubtechrdna.atlassian.net/wiki/spaces/CR/overview
+**Confluence Spaces**: https://ubtechrdna.atlassian.net/wiki/spaces/CR/overview
 
 
-**Robot Update Instructions: **
+**Robot Update Instructions**: https://ubtechrdna.atlassian.net/wiki/spaces/CR/pages/2111143962/CR2023+EVT+HW
 
 Contact: Olivia
 
