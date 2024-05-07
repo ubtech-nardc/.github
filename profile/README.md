@@ -19,6 +19,7 @@
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
 | [navigation_ws](https://github.com/ubtech-nardc/navigation_ws) |   |   |
+| [navigation_cpp_ws](https://github.com/ubtech-nardc/navigation_cpp_ws)  |  de_ros workspace  |    | 
 |  |   |   |
 
 ## Fleet Control
