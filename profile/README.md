@@ -16,11 +16,11 @@
 ## Navigation
 **Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
 
-| Repo | Description | Version/branch on Robot |
-| ----------- | ----------- | ----------- | 
-| [navigation_ws](https://github.com/ubtech-nardc/navigation_ws) |   |   |
-| [navigation_cpp_ws](https://github.com/ubtech-nardc/navigation_cpp_ws)  |  de_ros workspace  |    | 
-|  |   |   |
+| Repo | Description | Version/branch on Robot | JIRA |
+| ----------- | ----------- | ----------- | ----------- | 
+| [navigation_ws](https://github.com/ubtech-nardc/navigation_ws) |   |   |   |
+| [navigation_cpp_ws](https://github.com/ubtech-nardc/navigation_cpp_ws)  |  de_ros workspace  |    |   [Issue board](https://ubtechrdna.atlassian.net/jira/software/projects/NN/boards/47)  |
+|  |   |   |    |
 
 ## Fleet Control
 **Confluence Page**: https://ubtechrdna.atlassian.net/wiki/spaces/NAV/overview
