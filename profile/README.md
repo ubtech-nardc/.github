@@ -40,6 +40,7 @@
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
 | [powerArm](https://github.com/ubtech-nardc/powerArm) | powerARM TRL 6 control  |    |
+| [unity-arm](https://github.com/ubtech-nardc/unity_arm) | Unity  |    |
 |  |   |   |
 
 ## GARD
