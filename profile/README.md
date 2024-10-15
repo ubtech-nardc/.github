@@ -50,7 +50,7 @@
 | Repo | Description | Version/branch on Robot |
 | ----------- | ----------- | ----------- | 
 | [fleet_control_ws](https://github.com/ubtech-nardc/fleet_control_ws) |   |    |
-| [GARD game](https://github.com/ubtech-nardc/unity-GARD) | unity game  |   |
+| [unity-gard](https://github.com/ubtech-nardc/unity-GARD) | unity app for GARD  |   |
 
 
 ## CR - Companion Robot
